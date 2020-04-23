@@ -1,4 +1,4 @@
-# Computational Economics
+# Computational Economics (Nicholas)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albop/eco309.git/master?urlpath=lab)
 
